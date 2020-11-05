@@ -10,5 +10,5 @@ Note: Each version has two downloads, one is labeled Catalina and the other is B
 
 The initial beta release of Patched Sur. _Everything is new._
 
-[Download Patched Sur](https://github.com/BenSova/Patched-Sur-Docs/releases/download/v0.0.1/Patched-Sur-v0.0.1.dmg)
+[Download Patched Sur](https://github.com/BenSova/Patched-Sur-Docs/releases/download/v0.0.1/Patched-Sur.dmg)
 
