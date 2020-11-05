@@ -6,11 +6,11 @@ description: Which one do you pick?
 
 ![](../.gitbook/assets/screen-shot-2020-10-16-at-10.27.41-pm.png)
 
-Update tracks are what kind of macOS versions you want to get in each update. For example, one track could be the stable/release track and other might be the unstable/beta track. Normally, you are on the release update track, but you can change that in stock macOS by downloading a configuration profile that changes this for you. However, since you are on an unsupported Mac, you can't use System Preferences to update, so you have to choose your track in here and Patched Sur will automatically grab the correct macOS version for you. MacOS has three different update tracks available: release, public beta, and developer beta.
+Update tracks are what kind of macOS versions you want to get in each update. For example, one track could be the stable/release track and others might be the unstable/beta track. Normally, you are on the release update track, but you can change that in stock macOS by downloading a configuration profile that changes this for you. However, since you are on an unsupported Mac, you can't use System Preferences to update, so you have to choose your track in here and Patched Sur will automatically grab the correct macOS version for you. macOS has three different update tracks available: release, public beta, and developer beta.
 
 ## Release Track
 
-The release track is the defualt and most stable update track. This track contains the macOS updates you would get normally if you were on a supported Mac and did not install a configuration profile to change it. More likely than not, this is the track you want to be on.
+The release track is the default and most stable update track. This track contains the macOS updates you would get normally if you were on a supported Mac and did not install a configuration profile to change it. More likely than not, this is the track you want to be on.
 
 ## Public Beta Track
 
