@@ -2,7 +2,6 @@
 
 * [Home](README.md)
 * [Supported Macs](supported-macs.md)
-* [Downloads](downloads.md)
 
 ## Preinstall \(Catalina\)
 
