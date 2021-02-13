@@ -16,7 +16,7 @@ This process is the same as the initial upgrade to Big Sur. You make a USB then 
 
 Making a macOS Big Sur Installer USB is relatively simple. You only need two things, a copy of macOS Big Sur and a USB drive. With Patched Sur you only need a copy of Patched Sur and the USB drive. 
 
-To get Patched Sur, download the most recent release from GitHub \(or from [this link](https://github.com/BenSova/Patched-Sur/releases/download/v0.0.5/Patched-Sur.dmg)\) and open the app \(do not move it to your Applications folder\). 
+To get Patched Sur, download the most recent release from GitHub \(or from [this link](https://github.com/BenSova/Patched-Sur/releases/download/v0.0.6a/Patched-Sur.dmg)\) and open the app \(do not move it to your Applications folder\). 
 
 After you have it open, run through the initial prompts until selecting all the preferences you want, like the [Update Track](../preinstall-catalina/release-tracks.md) and Install Method \(you will want to choose Update for that\).
 

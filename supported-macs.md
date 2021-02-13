@@ -7,6 +7,8 @@ description: >-
 
 # Supported Macs
 
+
+
 {% hint style="warning" %}
 Remember that this information is incomplete and may not be 100% correct yet, but I'll add more information over time and fix any errors as I learn about them.
 {% endhint %}
