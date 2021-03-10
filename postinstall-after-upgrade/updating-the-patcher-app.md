@@ -8,7 +8,7 @@ Every once in a while, I will release a new update to the patcher app. The updat
 
 ### Updating from v0.0.4 or below
 
-If you have an older version of the patcher, like v0.0.4 or v0.0.3, then you need to download a new version of the patcher from GitHub. Just download [this file](https://github.com/BenSova/Patched-Sur/releases/download/v0.0.7/Post-Install-App.dmg) and open it, then drag the Patched Sur app into your Applications folder. After that, you are done and can update using the next method from now on.
+If you have an older version of the patcher, like v0.0.4 or v0.0.3, then you need to download a new version of the patcher from GitHub. Just download [this file](https://github.com/BenSova/Patched-Sur/releases/download/v0.1.1/Post-Install-App.dmg) and open it, then drag the Patched Sur app into your Applications folder. After that, you are done and can update using the next method from now on.
 
 ### Updating from v0.0.5 or later
 
