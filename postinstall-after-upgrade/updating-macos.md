@@ -6,29 +6,15 @@ description: 'Don''t worry, it''ll get easier.'
 
 If you open the post-install app and try to open the updater, there are two different screens you might run into. The first being the update the patcher app screen and the second being the update macOS screen. Both will provide a simple outlook of information about the new up. If you want to learn some more about updating the app, head over to the Updating The Post Install App section to learn the basics of how it works. 
 
-{% hint style="info" %}
-Due to some problems with the scripts that are supposed to turn off the macOS compatibility check in startosinstall, I have been unable to include the **Update without a USB** functionality as of right now. Until these problems are resolved, I won't release the updater. 
-{% endhint %}
+### Starting the Update
 
-This process is the same as the initial upgrade to Big Sur. You make a USB then use it to reinstall macOS. I'll give a quick rundown of what you need to do just to clarify everything.
+The updating process is super simple. When you open the post-install app and click update macOS and you see this screen: \(unless there's an update available for the app\)
 
-### Make an Installer USB
+![](../.gitbook/assets/screen-shot-2021-03-09-at-10.25.21-pm.png)
 
-Making a macOS Big Sur Installer USB is relatively simple. You only need two things, a copy of macOS Big Sur and a USB drive. With Patched Sur you only need a copy of Patched Sur and the USB drive. 
+On this screen, you can do several things. You can see the release notes for the latest version of Big Sur, you can configure notifications so you can get notifications for future Big Sur upgrades, and you can change the release track that you're getting Big Sur updates from. 
 
-To get Patched Sur, download the most recent release from GitHub \(or from [this link](https://github.com/BenSova/Patched-Sur/releases/download/v0.0.7/Patched-Sur.dmg)\) and open the app \(do not move it to your Applications folder\). 
-
-After you have it open, run through the initial prompts until selecting all the preferences you want, like the [Update Track](../preinstall-catalina/release-tracks.md) and Install Method \(you will want to choose Update for that\).
-
-Once you see the Download macOS 11.X screen, just click Download if that's the version you want, otherwise click View Other Versions to see other versions or use your own.
-
-After the download, enter your password and select the USB drive you want to use, remember that it will be completely erased. It'll erase the drive, add a copy of macOS recovery to it, and patch it. 
-
-### Reinstall macOS
-
-At the end of that process, you'll see the finished screen and all you have to do is turn off your Mac, then turn it back on again holding the option key. The boot picker will come up and you can click EFI Boot, observe your Mac shut down, then turn it on with the option key again, this time selecting Install macOS Big Sur.
-
-Your Mac will then boot into macOS Big Sur recovery, and all you have to do is click \(Re\)Install macOS Big Sur, press agree without reading anything, choose your main drive \(not the USB drive\), and let it go.
+When you're ready to update macOS, just click "Start the macOS Update" and then enter your password and the update will start. You might get a popup after clicking this, so just follow what they say and it'll work. Once it's done, you just have to Patch the Kexts, and you're done. 
 
 ### Patch the Kexts
 
