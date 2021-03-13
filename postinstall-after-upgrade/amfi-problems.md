@@ -4,7 +4,7 @@ Patched Sur v0.1.0 wanted to turn off AMFI to allow it to inject code into start
 
 ![](../.gitbook/assets/screen-shot-2021-03-12-at-6.49.15-pm.png)
 
-### Disabling AMFI
+### Enabling AMFI
 
 ![](../.gitbook/assets/screen-shot-2021-03-12-at-6.51.21-pm.png)
 
@@ -14,13 +14,13 @@ After you click on the little red bar on the bottom of the window, you'll be pre
 
 Just click that button \(or manually restart\), and everything will be fixed! No more worries.
 
-### Errors While Disabling AMFI
+### Errors While Enabling AMFI
 
-You might run into an error while disabling AMFI, this is okay though. It is a more manual fix to solve this, but either way, it's fine.
+You might run into an error while enabling AMFI, this is okay though. It is a more manual fix to solve this, but either way, it's fine.
 
-**If Patched Sur says "Failed to Disable Library Validation" and NOT AMFI, then you are perfectly fine. Just restart your Mac and everything is fixed.** 
+**If Patched Sur says "Failed to Disable Library Validation" and NOT ENABLE AMFI, then you are perfectly fine. Just restart your Mac and everything is fixed.** 
 
-If it was AMFI that failed to get disabled, once again, don't worry. It's a super easy fix and unless you don't even read these instructions, you won't break anything.
+If it was AMFI that failed to get enabled, once again, don't worry. It's a super easy fix and unless you don't even read these instructions, you won't break anything.
 
 1. Restart your Mac into Recovery Mode. To do this, when your Mac turns back on hold down OPTION-CMD-R, you can let go when you see the spinning globe. When you're given the option, connect to your WiFi network and your Mac should download macOS recovery.
    1. If you see a globe with an exclamation mark, you'll need a macOS installer USB instead, which is the same as Recovery Mode.
