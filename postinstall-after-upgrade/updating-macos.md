@@ -4,7 +4,7 @@ description: 'Don''t worry, it''ll get easier.'
 
 # Updating macOS
 
-If you open the post-install app and try to open the updater, there are two different screens you might run into. The first being the update the patcher app screen and the second being the update macOS screen. Both will provide a simple outlook of information about the new up. If you want to learn some more about updating the app, head over to the Updating The Post Install App section to learn the basics of how it works. 
+If you open the post-install app and try to open the updater, there are two different screens you might run into. The first being the update the patcher app screen and the second being the update macOS screen. Both will provide a simple outlook of information about the new update. If you want to learn some more about updating the app, head over to the Updating The Post Install App section to learn the basics of how it works. 
 
 ### Starting the Update
 
