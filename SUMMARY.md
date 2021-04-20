@@ -6,8 +6,8 @@
 ## Preinstall \(Inital Upgrade\) <a id="preinstall-catalina"></a>
 
 * [Starting Out](preinstall-catalina/starting-out.md)
+* [Learn the Compatiblity](preinstall-catalina/learn-the-compatiblity.md)
 * [Update Tracks](preinstall-catalina/release-tracks.md)
-* [Install Method](preinstall-catalina/install-method.md)
 
 ## PostInstall \(After Upgrade\)
 

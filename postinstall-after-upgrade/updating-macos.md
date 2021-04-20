@@ -10,7 +10,7 @@ If you open the post-install app and try to open the updater, there are two diff
 
 The updating process is super simple. When you open the post-install app and click update macOS and you see this screen: \(unless there's an update available for the app\)
 
-![](../.gitbook/assets/screen-shot-2021-03-09-at-10.25.21-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-19-at-7.14.23-pm.png)
 
 On this screen, you can do several things. You can see the release notes for the latest version of Big Sur, you can configure notifications so you can get notifications for future Big Sur upgrades, and you can change the release track that you're getting Big Sur updates from.
 
