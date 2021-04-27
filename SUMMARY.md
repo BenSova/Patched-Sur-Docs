@@ -19,6 +19,7 @@
 ## Possible Fixes
 
 * [Personal Hotspot](possible-fixes/personal-hotspot.md)
+* [Update Hangs At ~40%](possible-fixes/update-hangs-at-40.md)
 
 ## Tips/Tricks
 
