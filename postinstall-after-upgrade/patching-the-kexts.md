@@ -18,6 +18,8 @@ If you see the "Optimizing Your Mac" notification, give it time. It uses the vol
 
 ## Patching with the Full Post-Install App
 
+![](../.gitbook/assets/screen-shot-2021-04-27-at-4.09.08-pm.png)
+
 To use the post-install app in your Applications folder, you first need to launch it. If you did an update with the post-install app, chances are, it's already open. Once you have it launched, click on the Patch Kexts section.
 
 There, you can click "Start Patching Kexts" and enter your password \(your password is needed to mount the system volume, modify system files, and rebuild the kernel collection\).
@@ -25,6 +27,8 @@ There, you can click "Start Patching Kexts" and enter your password \(your passw
 The patcher will launch into the process \(it doesn't take too long, but give it time\), and soon it'll say "Restart to Finish". You can either click on that button \(it doesn't do anything in v0.2.1 due to a bug\) or restart manually.
 
 ## Patching with the Patched Installer USB Mini-app
+
+![](../.gitbook/assets/screen-shot-2021-04-27-at-4.08.45-pm.png)
 
 To patch the kexts with the mini-post-install app on the patched installer USB, you have to boot into the patched installer USB. Make sure the installer USB is plugged into your Mac, restart it, holding down the option key, then select "Install macOS Big Sur" on the screen that shows. It'll show the Apple logo, and soon, you'll be booted into the installer USB.
 

@@ -14,5 +14,5 @@ The solution is to turn off your Mac then turn it back on. Yes, it's that simple
 If your keyboard or mouse doesn't work after this happens, the solution that was found was interesting, to say the least. Just unplug your keyboard/mouse and plug it back in, then do that again, and again, and keep on doing it until it works.
 {% endhint %}
 
-After your Mac finishes booting and you unlock it, you'll have to patch the kexts again \(unless you are a Late 2013 iMac\), which can be done with the post-install app that's in your Applications folder and probably also already open. If you have a way to access the internet before patching the kexts, I heavily suggest installing recovery before patching the kexts. That way if something goes wrong while patching the kexts, you'll be fine.
+After your Mac finishes booting and you unlock it, you'll have to [patch the kexts](../postinstall-after-upgrade/patching-the-kexts.md) again \(unless you are a Late 2013 iMac\), which can be done with the post-install app that's in your Applications folder and probably also already open. If you have a way to access the internet before patching the kexts, I heavily suggest installing recovery before patching the kexts. That way if something goes wrong while patching the kexts, you'll be fine.
 
