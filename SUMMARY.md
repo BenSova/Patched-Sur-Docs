@@ -20,3 +20,7 @@
 
 * [Personal Hotspot](possible-fixes/personal-hotspot.md)
 
+## Tips/Tricks
+
+* [How To Not Redownload An Installer](tips-tricks/how-to-not-redownload-an-installer.md)
+
