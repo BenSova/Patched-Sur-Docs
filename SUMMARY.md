@@ -12,6 +12,7 @@
 
 ## PostInstall \(After Upgrade\)
 
+* [Patching the Kexts](postinstall-after-upgrade/patching-the-kexts.md)
 * [Updating The Patcher App](postinstall-after-upgrade/updating-the-patcher-app.md)
 * [Updating macOS](postinstall-after-upgrade/updating-macos.md)
 * [AMFI Problems](postinstall-after-upgrade/amfi-problems.md)
