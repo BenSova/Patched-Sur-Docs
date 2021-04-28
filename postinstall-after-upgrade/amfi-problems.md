@@ -22,7 +22,7 @@ You might run into an error while disabling AMFI, this is okay though. It is a m
 
 If it was AMFI that failed to get disabled, once again, don't worry. It's a super easy fix and unless you don't even read these instructions, you won't break anything.
 
-1. Restart your Mac into Recovery Mode. To do this, when your Mac turns back on hold down OPTION-CMD-R, you can let go when you see the spinning globe. When you're given the option, connect to your WiFi network and your Mac should download macOS recovery.
+1. Restart your Mac into Recovery Mode. To do this, when your Mac turns back on hold down OPTION-CMD-R or CMD-R if you have the revovery patch in the post install app installed, you can let go when you see the spinning globe. When you're given the option, connect to your WiFi network and your Mac should download macOS recovery.
    1. If you see a globe with an exclamation mark, you'll need a macOS installer USB instead, which is the same as Recovery Mode.
 2. Once your Mac finishes booting, click on the Utilities menu in the Menu Bar, and click Terminal.
 3. In Terminal, type `nvram boot-args="-no_compat_check"` \(type this exactly as is, there is only **one space** which is between nvram and boot-args\). After you type that, press enter. 
