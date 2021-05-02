@@ -9,6 +9,7 @@
 * [Starting Out](preinstall-catalina/starting-out.md)
 * [Learn the Compatiblity](preinstall-catalina/learn-the-compatiblity.md)
 * [Update Tracks](preinstall-catalina/release-tracks.md)
+* [Select USB Volume](preinstall-catalina/select-usb-volume.md)
 
 ## PostInstall \(After Upgrade\)
 
