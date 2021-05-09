@@ -4,7 +4,7 @@
 * [Why Though?](why-though.md)
 * [Supported Macs](supported-macs.md)
 
-## Preinstall \(Inital Upgrade\) <a id="preinstall-catalina"></a>
+## Preinstall \(Initial Upgrade\) <a id="preinstall-catalina"></a>
 
 * [Starting Out](preinstall-catalina/starting-out.md)
 * [Learn the Compatiblity](preinstall-catalina/learn-the-compatiblity.md)
